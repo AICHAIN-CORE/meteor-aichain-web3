@@ -1,0 +1,31 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os-legacy/packages/ethereum_web3.js",
+      "length": 2035332,
+      "offset": 0,
+      "servePath": "/packages/ethereum_web3.js"
+    }
+  ],
+  "node_modules": "npm/node_modules",
+  "packageVariables": [
+    {
+      "name": "Web3",
+      "export": true
+    },
+    {
+      "name": "BigNumber",
+      "export": true
+    },
+    {
+      "name": "require"
+    }
+  ]
+}

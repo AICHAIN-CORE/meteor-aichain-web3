@@ -1,0 +1,30 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "web.cordova-legacy/packages/ethereum_web3.js",
+      "length": 2035332,
+      "offset": 0,
+      "servePath": "/packages/ethereum_web3.js"
+    }
+  ],
+  "packageVariables": [
+    {
+      "name": "Web3",
+      "export": true
+    },
+    {
+      "name": "BigNumber",
+      "export": true
+    },
+    {
+      "name": "require"
+    }
+  ]
+}

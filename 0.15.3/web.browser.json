@@ -1,0 +1,42 @@
+{
+  "format": "isopack-2-unibuild",
+  "declaredExports": [
+    {
+      "name": "Web3",
+      "testOnly": false
+    },
+    {
+      "name": "BigNumber",
+      "testOnly": false
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "source",
+      "extension": "js",
+      "file": "web.browser/dist/web3.js",
+      "length": 486494,
+      "offset": 0,
+      "usesDefaultSourceProcessor": true,
+      "path": "dist/web3.js",
+      "hash": "224a14f27cd96403a81ef7203974f41d101c258c",
+      "fileOptions": {}
+    },
+    {
+      "type": "source",
+      "extension": "js",
+      "file": "web.browser/package-init.js",
+      "length": 543,
+      "offset": 0,
+      "usesDefaultSourceProcessor": true,
+      "path": "package-init.js",
+      "hash": "86c59f0337b2b4c022c442ba507a6bbc20ef6d70",
+      "fileOptions": {}
+    }
+  ]
+}
