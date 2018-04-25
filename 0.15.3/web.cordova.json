@@ -20,11 +20,11 @@
       "type": "source",
       "extension": "js",
       "file": "web.cordova/dist/web3.js",
-      "length": 486494,
+      "length": 486788,
       "offset": 0,
       "usesDefaultSourceProcessor": true,
       "path": "dist/web3.js",
-      "hash": "224a14f27cd96403a81ef7203974f41d101c258c",
+      "hash": "21cf291b569385b99dcc266b36c6a3897d390b10",
       "fileOptions": {}
     },
     {
@@ -35,7 +35,7 @@
       "offset": 0,
       "usesDefaultSourceProcessor": true,
       "path": "package-init.js",
-      "hash": "86c59f0337b2b4c022c442ba507a6bbc20ef6d70",
+      "hash": "b176c9b16958d03755a36f7011a1bd056e316958",
       "fileOptions": {}
     }
   ]

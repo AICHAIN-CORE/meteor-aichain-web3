@@ -20,11 +20,11 @@
       "type": "source",
       "extension": "js",
       "file": "web.browser/dist/web3.js",
-      "length": 486494,
+      "length": 486788,
       "offset": 0,
       "usesDefaultSourceProcessor": true,
       "path": "dist/web3.js",
-      "hash": "224a14f27cd96403a81ef7203974f41d101c258c",
+      "hash": "b176c9b16958d03755a36f7011a1bd056e316958",
       "fileOptions": {}
     },
     {
